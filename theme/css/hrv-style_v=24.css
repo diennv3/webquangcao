@@ -1,0 +1,57 @@
+@media (max-width: 1024px){
+	.price-table .price{font-size: 25px;}
+	.size-1of4{width: 22%;}
+	.content_footer p {margin-top: 10px;}
+}
+@media (max-width: 911px){
+	.caption-content{
+		right: 15%;
+		width: 70%;
+	}
+	.navbar-toggle {display: block;}
+	.navbar-header{width: 100%;}
+	#nav-primary .navbar-collapse.collapse {display: none !important;}
+	#nav-primary .navbar-collapse.collapse.in {display: block !important;}
+	.navbar-right {float: left!important;width: 100%;}
+	.navbar-nav>li{float: none;}
+	.text_center{text-align: center;}
+	.funfacts .item{margin-top: 50px;display: inline-block;text-align: left;}
+	.price-table .price {font-size: 32px;}
+}
+@media (max-width: 767px){
+	.scroll-to img{padding-left: 15px;}
+	.caption-content {
+		right: 2%;
+		top: 20%;
+		width: 96%;
+	}
+	#myTab li {width: 100%;}
+	.funfacts .item {margin: 20px 0;}
+	.funfacts {height: auto;}
+	.price-table .price {font-size: 38px;}
+	.size-1of4 {
+		width: 100%;
+		margin: 0;
+		margin-bottom: 20px;
+	}
+	.bx-wrapper .bx-pager{bottom: -20px;}
+	.text_footer{margin: 0 0 30px 0;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
